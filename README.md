@@ -2,6 +2,6 @@
 
 This is a technical test for Solocal. 
 
-How to run the project?
+You can run the simulation production with the command "python main.py"
 
 
